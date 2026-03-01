@@ -1,8 +1,10 @@
 # Hi, I'm Mohit Chander👋
 
+---
+
 🎯 Currently working as a DevOps Engineer 
 📚 2025 B. Tech(CSE) Graduate. I am a Fresher in IT Field.
-📚 Currently completing "90 Days of DevOps"  
+📚 Currently completing "90 Days of DevOps" of TWS Zero to Hero Josh Batch 
 ⚙️ Focused on Linux, Git, Shell Scripting, Docker & Cloud  
 
 ---
